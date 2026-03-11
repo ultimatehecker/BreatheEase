@@ -1,5 +1,2 @@
-arduino-libraries/Arduino_HTS221 @ ~1.0.0
-nethoncho/DHT22
-arduino-libraries/Arduino_HTS221 @ ^1.0.0
-arduino-libraries/Arduino_HTS221 @ 1.0.0
+sparkfun/SparkFun MAX3010x Pulse and Proximity Sensor Library@^1.1.2
 robtillaart/DHTNEW@^0.5.5
